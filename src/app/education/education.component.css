@@ -20,7 +20,7 @@ section h4 {
 :host.pc section {
     width: 600px;
     position: relative;
-    margin-left: 5rem;
+    /* margin-left: 5rem; */
     display: grid;
     gap: 0 1.5rem;
     grid-template-columns: 1fr 5fr;

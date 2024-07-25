@@ -10,15 +10,6 @@
     grid-template-columns: 1fr;
 }
 
-.title {
-    font-size: 15px;
-    padding: 0 0 2rem;
-    text-align: justify;
-    font-style: italic;
-    color: white;
-    text-decoration: underline;
-    font-family: 'Roboto Condensed', sans-serif;
-}
 
 .name {
     grid-row: 3/4;
@@ -26,7 +17,7 @@
     color: white;
     font-size: 2rem;
     margin-top: 3rem;
-    outline: 1px solid white;
+    /* outline: 1px solid white; */
     font-family: 'Roboto Condensed', sans-serif;
 }
 
@@ -59,7 +50,7 @@
     width: 100%;
     bottom: 0%;
     position: absolute;
-    background-color: #69F0AE;
+    background-color: #707673;
     clip-path: inset(0 round 50% 0 0);
 }
 

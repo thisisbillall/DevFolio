@@ -54,11 +54,3 @@ ul li h4 {
 :host.pc ul li:has(ul):last-child::after {  
     height: 100%;
 }
-
-.desc-div{
-    width: 45%;
-}
-
-.desc-div li{
-    text-align: justify;
-}

@@ -11,6 +11,8 @@ ul {
 }
 
 .social-media {
+    height: 2rem;
+    display: block;
     font-size: 2rem;
     display: flex;
     align-items: center;
