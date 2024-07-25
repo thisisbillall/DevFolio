@@ -37,7 +37,7 @@ export class WorkExperienceComponent implements OnInit {
       description: [
         'Designed and implemented a real-time doctor-patient consultancy application during the COVID-19 pandemic.',
         'This initiative aimed to reduce in-clinic appointments by facilitating voice and video consultations.', 
-        'As a key contributor at an early-stage startup, I was responsible for designing various UI screens and mockups based on Figma designs, ensuring a seamless and user-friendly experience.',
+        'I was responsible for designing UI screens based on Figma designs, ensuring a seamless and user-friendly experience.',
         'Technologies: React Js, Redux, MongoDB, BootStrap, Github, JIRA, Postman.'
       ],
     },
